@@ -1,0 +1,32 @@
+~PACKING~LIST~
+
+~program4~
+	NAME			SIZE
+
+	alias.c 		1253
+	alias.h			656
+	commands.c		13404
+	commands.h		1162
+	define.c		414
+	define.h 		1079
+	init.c 			5971
+	init.h			914
+	lexico.c		8007
+	lexico.h 		958
+	main.c			884
+	makefile		666
+	READMEFIRST.txt		430
+	rsrc.mcshrc		41
+	set.c			1395
+	set.h			662
+	test.txt		809
+
+
+~proof~
+
+	cleanandmake.jpg	45941
+	fromefile.jpg		161088
+	interactive.jpg		142698
+	packinglist.txt
+	report.doc		14848
+		

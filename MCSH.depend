@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1364234421 source:e:\school\sysprog\homework\mcsh\commands.c
+	"commands.h"
+	"define.h"
+
+1364254330 e:\school\sysprog\homework\mcsh\commands.h
+
+1364254454 e:\school\sysprog\homework\mcsh\define.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1364254465 source:e:\school\sysprog\homework\mcsh\main.c
+	"define.h"
+	"commands.h"
+
+1365999260 source:e:\school\sysprog\mcsh gogo\mcsh\alias.c
+	"alias.h"
+	"define.h"
+	"lexico.h"
+
+1366012522 e:\school\sysprog\mcsh gogo\mcsh\alias.h
+
+1366064176 source:e:\school\sysprog\mcsh gogo\mcsh\commands.c
+	"commands.h"
+	"define.h"
+	"set.h"
+	"alias.h"
+	"lexico.h"
+	"init.h"
+
+1366060886 e:\school\sysprog\mcsh gogo\mcsh\commands.h
+	"define.h"
+
+1366072810 e:\school\sysprog\mcsh gogo\mcsh\define.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<dirent.h>
+
+1366053590 source:e:\school\sysprog\mcsh gogo\mcsh\init.c
+	"init.h"
+	"define.h"
+	"commands.h"
+	"set.h"
+	"alias.h"
+	"lexico.h"
+
+1366053590 e:\school\sysprog\mcsh gogo\mcsh\init.h
+	"define.h"
+
+1366009687 source:e:\school\sysprog\mcsh gogo\mcsh\lexico.c
+	"lexico.h"
+	"define.h"
+
+1366012522 e:\school\sysprog\mcsh gogo\mcsh\lexico.h
+
+1366051483 source:e:\school\sysprog\mcsh gogo\mcsh\main.c
+	"define.h"
+	"set.h"
+	"alias.h"
+	"lexico.h"
+	"init.h"
+	"commands.h"
+
+1366012522 e:\school\sysprog\mcsh gogo\mcsh\set.h
+
+1365438559 source:e:\school\sysprog\mcsh gogo\mcsh\parse.c
+
+1365997593 source:e:\school\sysprog\mcsh gogo\mcsh\set.c
+	"set.h"
+	"define.h"
+	"lexico.h"
+
+1366051921 source:e:\school\sysprog\mcsh gogo\mcsh\define.c
+	"define.h"
+
